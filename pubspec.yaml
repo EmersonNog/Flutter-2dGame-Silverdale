@@ -1,0 +1,48 @@
+name: hill
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  bonfire: ^2.12.7
+  audioplayers: ^5.1.0
+  url_launcher: ^6.1.14
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/audio/song.mp3
+    - assets/audio/middle.mp3
+    - assets/audio/end.mp3
+    - assets/images/
+    - assets/images/attack/
+    - assets/images/map/
+    - assets/images/vilas/
+    - assets/images/map/json/
+    - assets/fonts/
+
+  fonts:
+    - family: Arial
+      fonts:
+        - asset: assets/fonts/RPG-Regular.ttf
+          style: italic
+          weight: 200
+    - family: Medieval
+      fonts:
+        - asset: assets/fonts/MedievalSharp-Regular.ttf
+          weight: 200
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

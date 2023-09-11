@@ -1,0 +1,14 @@
+{ "columns":15,
+ "image":"..\/ruas.png",
+ "imageheight":160,
+ "imagewidth":240,
+ "margin":0,
+ "name":"ruas",
+ "spacing":0,
+ "tilecount":150,
+ "tiledversion":"1.9.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.9"
+}

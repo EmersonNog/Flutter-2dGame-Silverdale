@@ -1,0 +1,14 @@
+{ "columns":27,
+ "image":"..\/..\/vilas\/casaVermelha.png",
+ "imageheight":400,
+ "imagewidth":432,
+ "margin":0,
+ "name":"casaVermelha",
+ "spacing":0,
+ "tilecount":675,
+ "tiledversion":"1.9.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.9"
+}
