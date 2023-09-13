@@ -14,6 +14,10 @@ O jogo inclui um sistema de combate, este tipo de combate é mais rápido e din�
 
 O jogo é dividido em várias fases. Para avançar para a próxima fase, o jogador deve entrar em portais e falar com NPC's específicos.
 
+## Itens Coletáveis
+
+O jogo possuí um sistema de itens coletáveis, ao enfrentar os mercenários e seu HP ficar baixo, o jogador poderá procurar por COGUMELOS para assim recuperar seu HP.
+
 ## Outros recursos
 
 Além dos recursos mencionados acima, o jogo também inclui:
@@ -29,12 +33,12 @@ Para instalar o jogo, siga estas etapas:
 1. Clone o repositório do GitHub:
    
    ```
-   git clone https://github.com/your-username/your-game.git
+   git clone https://github.com/EmersonNog/Flutter-2dGame-Silverdale.git
    ```
 2. Navegue até a pasta do jogo:
    
    ```
-   cd your-game
+   cd Flutter-2dGame-Silverdale
    ```
 3. Instale as dependências:
    ```
@@ -42,7 +46,6 @@ Para instalar o jogo, siga estas etapas:
    ```
 
 4. Execute o jogo:
-
    ```
    flutter run
    ```
